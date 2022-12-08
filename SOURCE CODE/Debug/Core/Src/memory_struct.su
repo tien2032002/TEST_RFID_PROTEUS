@@ -1,0 +1,11 @@
+../Core/Src/memory_struct.c:12:9:equalZero	24	static
+../Core/Src/memory_struct.c:20:9:largerID	24	static
+../Core/Src/memory_struct.c:28:9:equalID	24	static
+../Core/Src/memory_struct.c:36:6:duplicateID	24	static
+../Core/Src/memory_struct.c:44:6:insert	24	static
+../Core/Src/memory_struct.c:58:6:delete_all	16	static
+../Core/Src/memory_struct.c:64:9:search	24	static
+../Core/Src/memory_struct.c:73:9:add_new_card	16	static
+../Core/Src/memory_struct.c:81:9:delete_card	8	static
+../Core/Src/memory_struct.c:87:9:set_admin	16	static
+../Core/Src/memory_struct.c:92:9:check_admin	16	static
